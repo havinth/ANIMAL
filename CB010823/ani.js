@@ -1,6 +1,4 @@
-
-
-  var headingData = {
+ var headingData = {
     title: "Indigenious Animals in Sri lanka",
     description: " Sri Lanka, a South Asian island nation, is home to a diverse range of indigenous species. The island's distinct ecosystems, which range from lush rainforests to parched plains, provide habitat for a wide variety of species found nowhere else on the planet.  One of the most well-known indigenous animals is the Sri Lankan elephant (Elephas maximus maximus), a subspecies of the Asian elephant. These gentle giants wander a variety of settings, including national parks and animal reserves, helping to shape the country' cultural and natural identity. The Sri Lankan leopard (Panthera pardus kotiya) is the top predator in the island's deep rainforests. The Sri Lankan leopard, known for its striking golden coat with dark rosettes, represents the island's untamed wildness. The indigenous purple-faced langur (Semnopithecus vetulus) swings through the trees of Sri Lanka's mountain forests. This primate species, known for its bright fur and expressive facial characteristics, contributes to the island's biodiversity. "
   };
@@ -29,7 +27,6 @@
   };
   
 
-  localStorage.setItem('menuItems', JSON.stringify(menuItems));
   localStorage.setItem('headingData', JSON.stringify(headingData));
   localStorage.setItem('contentData', JSON.stringify(contentData));
 
